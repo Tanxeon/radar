@@ -1,4 +1,4 @@
-Bonjour,
+Bonjour Valentin,
 Merci d'avoir telecharge ce projet.
 Celui-ci a ete realise avec:
 
